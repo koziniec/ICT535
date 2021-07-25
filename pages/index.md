@@ -9,7 +9,8 @@ permalink: /
 This is a temporary site while we figure out why the LMS instance in semester 2 is not visible.
 
 ## Unit Guide
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+
+[ICT535-Unit-Guide-2021-S2]({{ site.baseurl }}{% link _docs/ICT535-Unit-Guide-2021-S2.pdf %})
 
 
 
