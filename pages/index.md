@@ -37,6 +37,6 @@ Note, the workshop presentation will only cover the admin side of ICT535 and an 
 [ICT535-Lecture-1 Admin Slides]({{ site.baseurl }}{% link _docs/ICT535-2021-S1-Workshop-1-slides-Admin.pdf %})
 
 [Simple Subnetting Revision]({{ site.baseurl }}{% link _docs/SimpleSubnetting.docx %})<br>
-[Create a matching topology using EVE-NG]({{ site.baseurl }}{% link https://www.koziniec.com/lab-intro-eve-dc/ %})<br>
+
 [Apply your subnet configuration to the EVE-NG topology]({{ site.baseurl }}{% link _docs/Network-device-configuration-instructions.docx %})<br>
 
