@@ -33,7 +33,7 @@ Read chapters 2 and 14 (Switching and Routing)
 ## Week 1 labs
 Please watch the prerecorded "content lecture" and read the Cisco Curriculum before attending the lab sessions.  For week 1 this is less important but in future the labs will be closely tied to the theory.
 
-Note, the workshop presentation will only cover the admin side of ICT535 and an introduction to lab actiities.
+Note, the workshop presentation will only cover the admin side of ICT535 and an introduction to lab activities.
 [ICT535-Lecture-1 Admin Slides]({{ site.baseurl }}{% link _docs/ICT535-2021-S1-Workshop-1-slides-Admin.pdf %})
 
 
