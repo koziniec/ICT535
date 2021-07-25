@@ -4,13 +4,15 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to ICT535
 
-This is a starter template for a docsy jekyll theme.
+This is a temporary site while we figure out why the LMS instance in semester 2 is not visible.
 
+## Unit Guide
 ![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
 
-## Purpose
+
+
 
 GitHub pages uses Jekyll natively, so when I make documentation, I typically
 look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
